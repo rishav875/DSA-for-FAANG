@@ -1,4 +1,4 @@
-package ineuron.dsa.assignment5;
+package ineuron.dsa.arrays.assignment5;
 
 public class Problem3 {
 /*
