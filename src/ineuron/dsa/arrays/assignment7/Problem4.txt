@@ -1,0 +1,8 @@
+4. 
+An almost sorted array is given to us and the task is to sort that array completely. Then,
+which sorting algorithm would you prefer and why?[Salesforce]
+
+Ans:
+We would apply insertion sort.
+Since in insertion sort we can able to sort the array in single go.
+The time complexity in best case is O(n)
